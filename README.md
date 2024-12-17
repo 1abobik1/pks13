@@ -9,7 +9,6 @@
 В данной работе необходимо было добавить страницу мои заказы.
 
 1) Добавил на странице "Профиль" переход на страницу со всеми заказами пользователя
-<img src='https://github.com/user-attachments/assets/913862e1-41dd-4ac2-a557-d4e3a7c5f506' width = 300 />
 
 <img src='https://github.com/user-attachments/assets/f092aa72-d56a-40cb-8296-286575fc623c' width = 300 />
 
